@@ -15,8 +15,6 @@ Rental Services: Developed an online booking and payment platform using PHP and 
 Programming Languages: Python, HTML, CSS, JavaScript, PHP
 Technologies: MySQL, Odoo ERP, Git, Microsoft Office
 Core Competencies: Software Development, Machine Learning, AI, ERP Systems, Customer Support
-Tools:
-
 💼 Professional Experience
 Odoo Application Engineer – Synodica Solutions, India (Jan 2022 – Dec 2023)
 
